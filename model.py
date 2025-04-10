@@ -396,5 +396,4 @@ if __name__ == "__main__":
     print("\nTraining complete!")
     print("Best model saved as 'asl_model_best.pth'")
     print("Final model saved as 'asl_model_final.pth'")
-    print("Use these models in your predict.py script")
     
